@@ -1,6 +1,8 @@
 # Arduino_Matematico
  Implementacao de técnicas de calculo numerico com Arduino.
+ Criado por Lincoln M.
  Data: Abril / 2020
+ 
  Livro de Referência: 
  Cálculo Numérico Computacional. 
  Autores Sérgio Peters e Julio Felipe Szeremeta
