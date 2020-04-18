@@ -1,5 +1,7 @@
 /* ** SOLUÇÃO DE EQUAÇÕES LINEARES POR MÉTODOS ITERATIVOS **
- *  
+ *  Por: Lincoln M.
+ *LIVRO REFERÊNCIA: CÁLCULO NUMERICO COMPUTACIONAL PETERS,S., SZEREMETA, J.F. EDITORA UFSC, 2018.
+ *
  *  Quando o sistema de equações lineares A * X = B tiver algumas
 características especiais, como: a ordem n elevada (n é o número de equações);
 a matriz dos coeficientes A possuir grande quantidade de elementos
