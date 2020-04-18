@@ -1,9 +1,10 @@
 /*
 CÁLCULO NUMÉRICO COMPUTACIONAL COM ARDUINO.
-LIVRO REFERÊNCIA: CÁLCULO NUMERICO COMPUTACIONAL PETERS,S., SZEREMETA, J.F. EDITORA UFSC
+Por: Lincoln M.
+LIVRO REFERÊNCIA: CÁLCULO NUMERICO COMPUTACIONAL PETERS,S., SZEREMETA, J.F. EDITORA UFSC, 2018.
 
 O método desenvolvido neste algoritmo esta relacionado a aplicação do Método de Gauss com 
-pivotação total.
+pivotação total para a resolução de Sistema Lineares.
 
 Consideramos, por simplificação, que este algoritmo será capaz de resolver equações lineares 
 com 3 equações e o sistema é determinado. pag.111.
