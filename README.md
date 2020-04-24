@@ -5,6 +5,7 @@
  
  Ferramentas de trabalho:
  > Arduino Uno
+ 
  > Software disponibilizado gratuitamente no site oficial: https://www.arduino.cc/
  
  
